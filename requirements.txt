@@ -1,0 +1,10 @@
+# No external dependencies required for the base version.
+# This app uses Python standard library only: tkinter, sqlite3, os, datetime.
+
+# Install:
+# python -m venv .venv
+# .venv\Scripts\activate   # Windows
+# source .venv/bin/activate  # macOS/Linux
+# python app.py
+
+# If you want to use another environment manager, just keep the same command above.
